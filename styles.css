@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+
+table{
+	border-collapse:collapse;
+	width:100%;
+	text-allign:center;
+}
+th,td{
+	border:1px solid black;
+	text-allign:center;
+}
+.a{
+	background-color:darkred;
+	color:white;
+	opacity:0.7;
+}
+.b{
+	background-color:darkred;
+	color:white;
+	opacity:0.4;
+}
+.c{
+	background-color:gray;
+	opacity:0.7;
+	color:black;
+}
+.d{
+	background-color:lightpink;
+	opacity:0.5;
+}
+
+
